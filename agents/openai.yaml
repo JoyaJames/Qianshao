@@ -1,0 +1,4 @@
+interface:
+  display_name: "前哨访谈写作"
+  short_description: "把海外创始人访谈重写为有来源、有取舍、有判断的中文文章"
+  default_prompt: "Use $frontier-interview-writer to turn this founder interview into a sourced Chinese editorial article."
